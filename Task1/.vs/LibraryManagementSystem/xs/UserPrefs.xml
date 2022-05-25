@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{14E7D0C7-7661-43B7-8F63-13F4FF7028C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryManagementSystem/Program.cs">
+    <Files>
+      <File FileName="LibraryManagementSystem/Program.cs" Line="366" Column="14" />
+      <File FileName="LibraryManagementSystem/Contents.cs" />
+      <File FileName="LibraryManagementSystem/User.cs" />
+      <File FileName="LibraryManagementSystem/datafiles/unsorted_data.csv" />
+      <File FileName="LibraryManagementSystem/datafiles/sorted_data.csv" />
+      <File FileName="LibraryManagementSystem/Borrowing.cs" />
+      <File FileName="LibraryManagementSystem/Data.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryManagementSystem" expanded="True">
+            <Node name="LibraryManagementSystem" expanded="True">
+              <Node name="datafiles" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LibraryManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

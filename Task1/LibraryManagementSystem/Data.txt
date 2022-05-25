@@ -1,0 +1,14 @@
+﻿Book,Forty Rules of Love,Odean Smith
+Book,Manuscript Found in Accra,Paulo Coelho
+Book,Believe-What Life and Cricket Taught Me,Suresh Raina
+Book,The Christmas Pig,JK Rowling
+Book,Whereabouts,Jhumpa Lahiri
+Book,Microsoft Visual C# Step by Step 8th edition Microsoft Press,John Sharp
+Book,An Introduction to Object-Oriented Programming,Timothy A Budd
+Article,How to Think Better,Odean Smith
+Article,5 ways to live good life,Keshav Maharaj
+Article,The Ultimate Productivity Hack is Saying No,James Clear
+Article,Functional Organisation of the Mouse Superior Colliculus,Thomas Et al.
+Article,Automated machine learning for early predicting severity of acute pancreatitis in hospitals,Minyue Yin Et al.
+Digital Media,Sense 8,Netflix
+Digital Media,13 Reason Why,Netflix
